@@ -25,17 +25,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaalayDev&layout=compact&theme=radical)
 
-## Projects
-
-- [DoodleVerse](https://github.com/TaalayDev/DoodleVerse-ComposeMultiplatform)
-  - Cross-platform digital drawing application built with Kotlin Multiplatform and Jetpack Compose.
-- [PixelVerse](https://github.com/TaalayDev/PixelVerse)
-  - A Feature-Rich Pixel Art Creation Tool
-- [JSMaster](https://github.com/TaalayDev/JSMaster)
-  - Interactive JavaScript learning app
-- [BrainTeasers](https://github.com/TaalayDev/brain_teasers)
-  - A comprehensive brain training app
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/TaalayDev)
